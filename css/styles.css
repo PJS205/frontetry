@@ -1,0 +1,124 @@
+body {
+  background-color: #fafafa;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #9696a0;
+}
+
+p {
+  color: #c0bfc4;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.boldhead {
+  color: #494c5c;
+  margin: 0 auto 0.5rem;
+}
+
+.container {
+  position: relative;
+  height: 600px;
+  padding-bottom: 20px;
+}
+
+.header {
+  display: inline-block;
+  padding-top: 1.5rem;
+}
+
+.headertext {
+  display: inline-block;
+  width: 60%;
+}
+
+.lighthead {
+  font-weight: lighter;
+  margin-bottom: 0;
+}
+
+.icon-img {
+  float: right;
+}
+
+.supervisor-block {
+  display: inline-block;
+  width: 350px;
+  height: 200px;
+  border-top: solid;
+  border-color: #43d2d2;
+  box-shadow: 0 10px 10px #d8e2ed, 0 0 10px #d8e2ed;
+  padding: 10px 30px 30px;
+  text-align: left;
+  border-radius: 2%;
+  position: absolute;
+margin: auto;
+  top: 0;
+  left: 0;
+  right: 900px;
+  bottom: 0;
+}
+
+.team-builder-block {
+  display: inline-block;
+  width: 350px;
+  height: 200px;
+  border-top: solid;
+  border-color: #d55d60;
+  box-shadow: 0 10px 10px #d8e2ed, 0 0 10px #d8e2ed;
+  padding: 10px 30px 30px;
+  text-align: left;
+  border-radius: 2%;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 300px;
+}
+
+.karma-block {
+  display: inline-block;
+  width: 350px;
+  height: 200px;
+  border-top: solid;
+  border-color: #f5af54;
+  box-shadow: 0 10px 10px #d8e2ed, 0 0 10px #d8e2ed;
+  padding: 10px 30px 30px;
+  text-align: left;
+  border-radius: 2%;
+  position: absolute;
+  margin: auto;
+  top: 300px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.calculator-block {
+  display: inline-block;
+  width: 350px;
+  height: 200px;
+  border-top: solid;
+  border-color: #529df0;
+  box-shadow: 0 10px 10px #d8e2ed, 0 0 10px #d8e2ed;
+  padding: 10px 30px 30px;
+  text-align: left;
+  border-radius: 2%;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 900px;
+  right: 0;
+  bottom: 0;
+}
